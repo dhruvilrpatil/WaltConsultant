@@ -1,6 +1,12 @@
+<div align="center">
+  
 # WaltConsultant
 
-WaltConsultant is a desktop Loan Management System built with Python, Tkinter, and SQLite.
+Desktop Loan Management System built with Python, Tkinter, and SQLite.
+
+![WaltConsultant Mockup](./assets/fonts/mockup.png)
+---
+</div>
 
 ## Tech Stack
 
